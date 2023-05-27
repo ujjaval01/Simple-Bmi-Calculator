@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple BMI Calculator</string>
+    <string name="Weight">Enter Your Weight(Kg)</string>
+    <string name="HeightIn">Enter Your Height(In)</string>
+    <string name="HeightFt">Enter Your Height(Ft)</string>
+    <string name="CclBmi"> Calculate Bmi</string>
+    <string name="Result">Result</string>
+<!--    <string name="Result1">You Are OverWeight</string>-->
+<!--    <string name="Result2">You Are underWeight</string>-->
+<!--    <string name="Result3">You Are Healthy</string>-->
+
+
+
+</resources>
